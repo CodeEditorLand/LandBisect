@@ -40,7 +40,7 @@
     },
     "devDependencies": {
         "@types/follow-redirects": "^1.x",
-        "@types/node": "22.x",
+        "@types/node": "24.x",
         "@types/progress": "^2.0.7",
         "@types/prompts": "^2.x",
         "typescript": "5.x"
